@@ -63,6 +63,12 @@
     <li>Scikit-learn</li>
 </ul>
 
+<h2>❓ Making a Comparative study between Decision Tree v/s Logistics Regression</h2>
+<ul>
+    <li>Comparing the evaluation between the two models to select which one is better.</li>
+    <li>Comparison parameters are Accuracy, Precision, Recall</li>
+    <li>File Name: Model Evaluation DT & LogiR.ipynb </li>
+</ul>
 
 
 </body>
